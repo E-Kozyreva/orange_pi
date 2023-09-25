@@ -1,1 +1,0 @@
-/content/drive/MyDrive/road_detect/onnx_rknn_models/yolov5s-seg/doc/bus.jpg
